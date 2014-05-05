@@ -9,7 +9,7 @@ Setup
 ------------
 To create a project using C-boilerplate, simply copy the Makefile to the desired directory. From the project directory, simply run this command from the terminal.
 
-`make setup`
+`$ make setup`
 
 You will then be prompted for a project name (no spaces), and the path to a desired text editor (optional).
 
